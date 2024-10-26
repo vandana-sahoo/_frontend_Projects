@@ -1,16 +1,17 @@
-# Project Title: Single Page CV
+# Project Title: Roadmap.sh Frontend Projects
 
-## Description
-This project is a single-page CV designed to showcase professional skills and experience in a clean and responsive format.
+## Project Overview
+This repository contains various frontend projects aimed at enhancing web development skills from beginner to advanced levels.
 
-## Installation
-Clone the repository and open the `index.html` file in your browser.
+## Live Project URL
+You can view the live project here: [Project URL](https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects/tree/main/Single%20page%20CV)
 
-## Usage
-Customize the HTML and CSS files to add your personal information.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Project URL
-You can view the project code on GitHub at [this repository](https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects/tree/main/Single%20page%20CV).
-
-If you have a live demo of the project, you can view it [here](http://your-live-demo-url.com).
 
