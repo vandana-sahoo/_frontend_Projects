@@ -6,6 +6,9 @@ This repository contains various frontend projects aimed at enhancing web develo
 ## Live Project URL
 You can view the live project here: [Single Page CV](https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects/tree/main/Single%20page%20CV)
 
+## Projects
+- [Single Page CV](./Single%20page%20CV)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
