@@ -5,7 +5,7 @@
 This repository contains various frontend projects aimed at enhancing web development skills from beginner to advanced levels. Each project focuses on different aspects of frontend development, providing hands-on experience with HTML, CSS, and JavaScript.
 
 ## Live Project URL
-You can view the project here: [Single Page CV Project](https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects/tree/main/Single%20page%20CV)
+You can view the project here: [Single Page CV Project](https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects/blob/main/Single%20page%20CV/index.html)
 
 ## Projects
 - [Single Page CV](./Single%20page%20CV)
