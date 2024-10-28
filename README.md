@@ -29,17 +29,17 @@ You can view the project here: [Single Page CV Project](https://github.com/vanda
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/vandana-sahoo/Roadmap.sh_frontend_Projects.git
-   ```
+  
 2. Navigate to the project directory:
-   ```bash
+
    cd Roadmap.sh_frontend_Projects/Single\ page\ CV
-   ```
+
 3. Open the project in your preferred code editor.
 
 ## Usage
-To view the Single Page CV project, open the `index.html` file in a web browser.
+To view the Single Page CV project, open the index.html file in a web browser.
 
 ## Contributing
 Contributions are welcome! To contribute:
