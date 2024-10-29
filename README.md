@@ -1,4 +1,3 @@
-
 # Project Title: Roadmap.sh Frontend Projects
 
 ## Project Overview
