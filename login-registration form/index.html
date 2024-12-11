@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Page</title>
+    <!-- Link to the CSS file for styling -->
+    <link rel="stylesheet" href="s.css" />
+  </head>
+
+  <body>
+    <!-- Form container to hold both login and signup forms -->
+    <div class="form-container">
+      <!-- Login form -->
+      <form class="form" id="login-form">
+        <h2>Login</h2>
+        <input
+          type="email"
+          name="username"
+          placeholder="Enter Your Email"
+          required
+        />
+        <input
+          type="password"
+          name="password"
+          placeholder="Enter Your Password"
+          required
+        />
+        <a href="#">Forget password? </a>
+
+        <button type="submit">Login</button>
+        <p>Don't have an account? <a href="#" id="signup-link">Signup</a></p>
+      </form>
+
+      <!-- Signup form (hidden by default) -->
+      <form class="form" id="signup-form" style="display: none">
+        <h2>Signup</h2>
+        <input type="email" placeholder="Enter your email" required />
+        <input type="password" placeholder="Create a password" required />
+        <input type="password" placeholder="Confirm your password" required />
+        <button type="submit">Signup</button>
+        <p>Already have an account? <a href="#" id="login-link">Login</a></p>
+      </form>
+    </div>
+    <!-- Link to the JavaScript file for functionality -->
+
+    <script src="script.js"></script>
+  </body>
+</html>
